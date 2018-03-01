@@ -19,4 +19,4 @@ spec:
       databaseSizeMB: 1024
       journalSizeMB: 1024
     directories:
-    - path: "/vol_b"
+    - path: "/home/crocopie/rook"
